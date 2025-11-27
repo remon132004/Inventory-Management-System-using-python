@@ -28,8 +28,7 @@
 🖼️ Screenshot
 
     <img width="898" height="630" alt="image" src="https://github.com/user-attachments/assets/2aba3cff-b5f1-4c8d-8e16-843d3cb00751" />
-    assets/screenshot.png
-
+    
 🛠️ Technologies Used
 
     Python 3.x
@@ -50,12 +49,6 @@
 Run the main file:
 
     python main.py
-
-📂 Project Structure
-  📁 Inventory-Management-System
-   ├── main.py
-   ├── README.md
-   └── assets/
 
 🚀 How It Works
 
