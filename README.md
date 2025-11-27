@@ -27,7 +27,8 @@
 
 🖼️ Screenshot
 
-    <img width="898" height="630" alt="image" src="https://github.com/user-attachments/assets/2aba3cff-b5f1-4c8d-8e16-843d3cb00751" />
+   ![Screenshot](https://github.com/user-attachments/assets/2aba3cff-b5f1-4c8d-8e16-843d3cb00751)
+
     
 🛠️ Technologies Used
 
