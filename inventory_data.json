@@ -1,0 +1,17 @@
+{
+  "P001": {
+    "name": "Laptop",
+    "quantity": 2,
+    "price": 200.0
+  },
+  "P002": {
+    "name": "Laptop",
+    "quantity": 2,
+    "price": 200.0
+  },
+  "P003": {
+    "name": "Keyboard",
+    "quantity": 3,
+    "price": 50.0
+  }
+}
